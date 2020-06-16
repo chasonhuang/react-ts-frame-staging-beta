@@ -1,0 +1,14 @@
+{
+  "init": {
+    "place": "chasonhuang/react-ts-frame",
+    "branch": "master"
+  },
+  "complete-project": {
+    "place": "chasonhuang/react-ts-frame",
+    "branch": "#staging"
+  },
+  "simple-project": {
+    "place": "chasonhuang/react-ts-frame",
+    "branch": "#staging"
+  }
+}

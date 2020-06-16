@@ -1,0 +1,23 @@
+{
+  "name": "react-ts-frame",
+  "version": "1.0.9",
+  "description": "react project cli",
+  "bin": {
+    "react-ts-frame": "bin/react-ts-frame"
+  },
+  "keywords": [
+    "creat-react",
+    "react",
+    "cli"
+  ],
+  "author": "chasonhuang",
+  "license": "MIT",
+  "homepage": "",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0",
+    "download-git-repo": "^1.0.0",
+    "inquirer": "^3.0.6",
+    "ora": "^1.2.0"
+  }
+}
